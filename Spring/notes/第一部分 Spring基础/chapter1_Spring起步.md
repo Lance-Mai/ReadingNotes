@@ -2,15 +2,6 @@
 
 [TOC]
 
-- [chapter1 Spring起步](#chapter1-spring--)
-  * [1. 什么是Spirng](#1----spirng)
-  * [2. 自动装配&组件扫描](#2----------)
-  * [3. Spring项目结构](#3-spring----)
-  * [4. POM文件](#4-pom--)
-  * [5. 引导类](#5----)
-  * [6. 测试](#6---)
-  * [7. 处理Web请求](#7---web--)
-
 ## 1. 什么是Spirng
 
 - 容器（container），Spring应用上下文（Spring application context）
