@@ -30,9 +30,9 @@ Spring基于模板的抽象为JMS提供支持，即 JmsTemplate。
 </dependency>
 ```
 
-![image-20220510235028016](C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20220510235028016.png)
+![image-20220510235028016](https://cdn.jsdelivr.net/gh/Lance-Mai/MyPictureBed/images/image-2022/image-20220510235028016.png)
 
-![image-20220510235137598](C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20220510235137598.png)
+![image-20220510235137598](https://cdn.jsdelivr.net/gh/Lance-Mai/MyPictureBed/images/image-2022/image-20220510235137598.png)
 
 ---
 
@@ -40,15 +40,15 @@ Spring基于模板的抽象为JMS提供支持，即 JmsTemplate。
 
 - RabbitMQ可以说是AMQP最杰出的实现，他提供了比JMS更高级的消息路由策略。JMS消息使用目的地名称来寻址，接收者要从这里检索消息；而AMQP消息使用Exchange和routing key来寻址，这样消息就与消息者要监听的队列解耦了。
 
-![image-20220511000043640](C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20220511000043640.png)
+![image-20220511000043640](https://cdn.jsdelivr.net/gh/Lance-Mai/MyPictureBed/images/image-2022/image-20220511000043640.png)
 
-![image-20220511000215501](C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20220511000215501.png)
+![image-20220511000215501](https://cdn.jsdelivr.net/gh/Lance-Mai/MyPictureBed/images/image-2022/image-20220511000215501.png)
 
 ![image-20220511000240930](C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20220511000240930.png)
 
 ![image-20220511000603857](C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20220511000603857.png)
 
-![image-20220511000622016](C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20220511000622016.png)
+![image-20220511000622016](https://cdn.jsdelivr.net/gh/Lance-Mai/MyPictureBed/images/image-2022/image-20220511000622016.png)
 
 ![image-20220511000725257](C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20220511000725257.png)
 
@@ -78,7 +78,7 @@ http://www.dockone.io/article/9956
 10. Offset：消费者消费的位置信息，监控数据消费到什么位置。当消费者挂掉后重新恢复，可以从消费位置继续消费
 11. Zookeeper: Kafka集群能够正常工作，需要依赖ZK来帮助Kafka存储和管理集群信息
 
-![image-20220511002653982](C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20220511002653982.png)
+![image-20220511002653982](https://cdn.jsdelivr.net/gh/Lance-Mai/MyPictureBed/images/image-2022/image-20220511002653982.png)
 
 ##### 定义
 
@@ -96,7 +96,7 @@ http://www.dockone.io/article/9956
 
 - 一对多，生产者将消息发布到Topic中，有多个消费者订阅该主题，发布到Topic的消息会被所有订阅者消费，被消费的数据不会立即从Topic中清除
 
-![image-20220511002535776](C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20220511002535776.png)
+![image-20220511002535776](https://cdn.jsdelivr.net/gh/Lance-Mai/MyPictureBed/images/image-2022/image-20220511002535776.png)
 
 ##### 
 
