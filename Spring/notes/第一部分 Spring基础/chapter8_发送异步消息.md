@@ -44,13 +44,13 @@ Spring基于模板的抽象为JMS提供支持，即 JmsTemplate。
 
 ![image-20220511000215501](https://cdn.jsdelivr.net/gh/Lance-Mai/MyPictureBed/images/image-2022/image-20220511000215501.png)
 
-![image-20220511000240930](C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20220511000240930.png)
+![image-20220511000240930](https://cdn.jsdelivr.net/gh/Lance-Mai/MyPictureBed/images/image-2022/image-20220511000240930.png)
 
-![image-20220511000603857](C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20220511000603857.png)
+![image-20220511000603857](https://cdn.jsdelivr.net/gh/Lance-Mai/MyPictureBed/images/image-2022/image-20220511000603857.png)
 
 ![image-20220511000622016](https://cdn.jsdelivr.net/gh/Lance-Mai/MyPictureBed/images/image-2022/image-20220511000622016.png)
 
-![image-20220511000725257](C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20220511000725257.png)
+![image-20220511000725257](https://cdn.jsdelivr.net/gh/Lance-Mai/MyPictureBed/images/image-2022/image-20220511000725257.png)
 
 ---
 
