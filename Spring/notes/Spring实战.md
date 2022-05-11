@@ -5,3 +5,4 @@
 ## [chapter4 保护spring](https://github.com/Lance-Mai/ReadingNotes/blob/main/Spring/notes/%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%20Spring%E5%9F%BA%E7%A1%80/chapter4_%E4%BF%9D%E6%8A%A4Spring.md)
 ## [chapter5 使用配置属性](https://github.com/Lance-Mai/ReadingNotes/blob/main/Spring/notes/%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%20Spring%E5%9F%BA%E7%A1%80/chapter5_%E4%BD%BF%E7%94%A8%E9%85%8D%E7%BD%AE%E5%B1%9E%E6%80%A7.md)
 ## [chapter8 发送异步消息](https://github.com/Lance-Mai/ReadingNotes/blob/main/Spring/notes/%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%20Spring%E5%9F%BA%E7%A1%80/chapter8_%E5%8F%91%E9%80%81%E5%BC%82%E6%AD%A5%E6%B6%88%E6%81%AF.md)
+## [chapter9 理解反应式编程](https://github.com/Lance-Mai/ReadingNotes/blob/main/Spring/notes/%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%20Spring%E5%9F%BA%E7%A1%80/chapter9_%E7%90%86%E8%A7%A3%E5%8F%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B.md)
